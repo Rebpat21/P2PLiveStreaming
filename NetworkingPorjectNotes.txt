@@ -1,0 +1,5 @@
+Reconnect client 3 to server then to another client.
+
+1k of any random data, each time
+
+Report: figure, show ^^^^
